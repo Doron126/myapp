@@ -52,5 +52,5 @@ It's an example of automating deployment with containerization and continuous in
    When configuring the pipeline check "GitHub project" and enter the project URL.
    Choose "Pipeline script from SCM" and then "Git" as the SCM with the repository URL, click Save.
 
-7. Run the job with "Builed Now" and check the results.
+7. Run the job with "Builed Now" and check the results, you should see the app in port 5000.
    
