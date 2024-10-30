@@ -1,6 +1,6 @@
 # **myapp**
 ## **Overview**
-This project sets up a CI/CD pipeline for a basic Flask app using Jenkins and Docker. The pipeline automatically pulls code from GitHub, builds a Docker image, runs tests, and deploys the app.
+This project sets up a CI/CD pipeline for a basic Flask app using Python Docker and Jenkins. The pipeline automatically pulls code from GitHub, builds a Docker image, runs tests, and deploys the app.
 It's an example of automating deployment with containerization and continuous integration.
 
 ## **Thecnologies Used**
